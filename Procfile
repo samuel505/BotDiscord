@@ -1,3 +1,3 @@
 Worker: node index.js
 
-web: node server.js
+web: node app/server.js
