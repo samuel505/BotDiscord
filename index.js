@@ -51,4 +51,4 @@ monitor.on('down', (res) => console.log(`${res.website} se ha caído - ${res.sta
 monitor.on('stop', (website) => console.log(`${website} se ha parado.`) );
 monitor.on('error', (error) => console.log(error));
 
-client.login("OTU4ODE5ODExNjQ1ODc4MzYy.YkS4iQ.9BCRQh6qoMcGSzGavlBmhKgfY7I");
+client.login("");
